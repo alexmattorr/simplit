@@ -1,0 +1,4 @@
+simplit
+=======
+
+Simplit Subreddit Theme
